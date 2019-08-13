@@ -4,9 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Users/Luiz Felipe/CLionProjects/ed-at1/main.cpp" "D:/Users/Luiz Felipe/CLionProjects/ed-at1/cmake-build-debug/CMakeFiles/ed_at1.dir/main.cpp.obj"
+  "/home/btmluiz/CLionProjects/ed-at1/atvs.cpp" "/home/btmluiz/CLionProjects/ed-at1/cmake-build-debug/CMakeFiles/ed_at1.dir/atvs.cpp.o"
+  "/home/btmluiz/CLionProjects/ed-at1/main.cpp" "/home/btmluiz/CLionProjects/ed-at1/cmake-build-debug/CMakeFiles/ed_at1.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

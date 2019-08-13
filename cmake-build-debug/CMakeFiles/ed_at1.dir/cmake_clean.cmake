@@ -1,9 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ed_at1.dir/main.cpp.obj"
+  "CMakeFiles/ed_at1.dir/main.cpp.o"
+  "CMakeFiles/ed_at1.dir/atvs.cpp.o"
   "ed_at1.pdb"
-  "ed_at1.exe"
-  "ed_at1.exe.manifest"
-  "ed_at1.lib"
+  "ed_at1"
 )
 
 # Per-language clean rules from dependency scanning.
